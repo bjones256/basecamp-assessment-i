@@ -50,7 +50,7 @@ var responseCreator = function(param){
 // #9 Create a function called 'sum' that takes in one parameter and returns the sum of that parameter added it itself.
 
 function sum(x){
- x ++;
+ x += ;
  return x;
 }
 
