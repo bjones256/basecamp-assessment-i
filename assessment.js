@@ -36,10 +36,10 @@ if(age >= 16){
 var colorResponse;
 
 var responseCreator = function(param){
-  if(param="green"){
+  if(param==="green"){
     colorResponse = "Green is okay";
   }
-  else if(param="red"){
+  else if(param==="red"){
     colorResponse="I heart Red";
   }
   else{
