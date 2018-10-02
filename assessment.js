@@ -36,12 +36,22 @@ if(age >= 16){
 var colorResponse;
 
 var responseCreator = function(param){
-  // CODE HERE
+  if(param="green"){
+    colorResponse = "Green is okay";
+  }
+  else if(param="red"){
+    colorResponse="I heart Red";
+  }
+  else{
+    colorResponse = "What is your favorite color?";
+  }
 }
 
 // #9 Create a function called 'sum' that takes in one parameter and returns the sum of that parameter added it itself.
 
-// CODE HERE
+function sum(x){
+ x ++;
+}
 
 // #10 Create a function called 'greeter' that takes in two parameters, name and number. Have 'greeter' return a string that says something like this 'Hi! I am Bryan and I am 28 years old" but with the appropriate values..
 
