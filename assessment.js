@@ -44,8 +44,8 @@ var responseCreator = function(param){
   }
   else{
     colorResponse = "What is your favorite color?";
-  }
-}return colorResponse;
+  }return colorResponse;
+}
 
 // #9 Create a function called 'sum' that takes in one parameter and returns the sum of that parameter added it itself.
 
