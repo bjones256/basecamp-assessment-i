@@ -40,7 +40,7 @@ var responseCreator = function(param){
     colorResponse = "Green is okay";
   }
   else if(param==="red"){
-    colorResponse="I heart Red";
+    colorResponse="I heart red";
   }
   else{
     colorResponse = "What is your favorite color?";
