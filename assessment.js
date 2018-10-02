@@ -4,7 +4,7 @@ var myName = "Brian Jones";
 
 // #2 create a variable called 'faveNum' and assign it to your favorite number
 
-var faveNum = 1,000,000,000;
+var faveNum = 1000000000;
 
 // #3 create a variable called 'lovesCode' and set it to true
 
